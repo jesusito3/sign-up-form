@@ -1,0 +1,20 @@
+body {
+    display: flex;
+    margin: 0;
+}
+
+.background-image img {
+    width: 700px;
+    height: 100vh;
+}
+
+.form-section {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+div {
+    font-size: large;
+    color: blue;
+}
